@@ -7,3 +7,14 @@
 ## Eftir það, leikmaður 2 gerir sama sem leikmaður 1 var að gera.
 ## Eftir báðir leikmenn klára að blikka, það teljir stiginn þeirra og sigurverainn er hann sem blikkar mest.
 
+
+
+# ALLIR ÍHLUTIR
+- [ ] I2C LCD Display
+- [ ] MP3-TF-16P
+- [ ] Raspberry Pi 5
+- [ ] Camera module 3 wide
+- [ ] Speaker 8Ω 0.5W
+- [ ] Freenove ESP32-S3 GPIO Extension Board
+- [ ] ESP-32-S3 WROOM
+- [ ] breadboard
