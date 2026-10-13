@@ -18,3 +18,6 @@
 - [ ] Freenove ESP32-S3 GPIO Extension Board
 - [ ] ESP-32-S3 WROOM
 - [ ] breadboard
+
+
+![Myndrit](blikk-keppni.drawio.png)
