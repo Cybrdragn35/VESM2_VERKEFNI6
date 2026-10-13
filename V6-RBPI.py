@@ -139,7 +139,7 @@ async def camera():
     global counter
     global eyesClosed
     global startBlink
-    global curPlayer3
+    global curPlayer
 
     while True:
         while not startBlink:
