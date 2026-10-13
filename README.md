@@ -32,5 +32,6 @@ Eftir báðir leikmenn klára að blikka, það teljir stiginn þeirra og sigurv
 <img src="mynd5.jpg" alt="Mynd" width="300">
 
 ## VIDEO
-# <a href="http://youtube.com/watch?v=6nNxQqBlkoc">Vídeo</a>
+## <a href="http://youtube.com/watch?v=6nNxQqBlkoc">Vídeo</a>
 ## FORRITIN
+##  <a href="https://github.com/Cybrdragn35/VESM2_VERKEFNI6/blob/main/V6-ESP32.py">ESP32 Kóði</a>
