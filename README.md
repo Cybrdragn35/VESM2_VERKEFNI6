@@ -20,21 +20,21 @@ Eftir báðir leikmenn klára að blikka, það teljir stiginn þeirra og sigurv
 - [ ] breadboard
 
 
-# MYNDRIT
+## MYNDRIT
 <img src="blikk-keppni.drawio.png" alt="Myndrit" width="1000">
 
-# MYNDIR OG VIDEO
+## MYNDIR OG VIDEO
 # MYNDIR
 <img src="mynd1.jpg" alt="Mynd" width="300">
 <img src="mynd2.jpg" alt="Mynd" width="300">
 <img src="mynd4.jpg" alt="Mynd" width="300">
 <img src="mynd5.jpg" alt="Mynd" width="300">
 
-## VIDEO
-## <a href="http://youtube.com/watch?v=6nNxQqBlkoc">Vídeo</a>
-# FORRITIN
-<a href="https://github.com/Cybrdragn35/VESM2_VERKEFNI6/blob/main/V6-ESP32.py">ESP32 Kóði</a>
-<a href="V6-RBPI.py">Raspberry PI Kóði</a>
+# VIDEO
+<a href="http://youtube.com/watch?v=6nNxQqBlkoc">Vídeo</a>
+## FORRITIN
+### <a href="https://github.com/Cybrdragn35/VESM2_VERKEFNI6/blob/main/V6-ESP32.py">ESP32 Kóði</a>
+### <a href="V6-RBPI.py">Raspberry PI Kóði</a>
 
 ## 3D MODELIÐ
-<a href="Kassi (2).stl">Módelið</a>
+### <a href="Kassi (2).stl">Módelið</a>
