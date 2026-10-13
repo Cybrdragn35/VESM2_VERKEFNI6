@@ -24,11 +24,13 @@ Eftir báðir leikmenn klára að blikka, það teljir stiginn þeirra og sigurv
 <img src="blikk-keppni.drawio.png" alt="Myndrit" width="1000">
 
 # MYNDIR OG VIDEO
+# MYNDIR
 <img src="mynd1.jpg" alt="Mynd" width="300">
 <img src="mynd2.jpg" alt="Mynd" width="300">
 <img src="mynd3.jpg" alt="Mynd" width="300">
 <img src="mynd4.jpg" alt="Mynd" width="300">
 <img src="mynd5.jpg" alt="Mynd" width="300">
 
-## myndband
-[https://drive.google.com/file/d/13181E7xa-tt3CdwBbOh02IFbvfLKToIK/view?usp=sharing](https://drive.google.com/file/d/13181E7xa-tt3CdwBbOh02IFbvfLKToIK/view?usp=sharing)
+## VIDEO
+# <a href="http://youtube.com/watch?v=6nNxQqBlkoc">Vídeo</a>
+## FORRITIN
