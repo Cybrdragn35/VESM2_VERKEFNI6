@@ -21,7 +21,7 @@
 
 
 # MYNDRIT
-<img src="blikk-keppni.drawio.png" alt="Myndrit" width="600">
+<img src="blikk-keppni.drawio.png" alt="Myndrit" width="1000">
 
 # MYNDIR OG VIDEO
 <img src="mynd1.jpg" alt="Mynd" width="300">
