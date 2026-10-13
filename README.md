@@ -27,7 +27,6 @@ Eftir báðir leikmenn klára að blikka, það teljir stiginn þeirra og sigurv
 # MYNDIR
 <img src="mynd1.jpg" alt="Mynd" width="300">
 <img src="mynd2.jpg" alt="Mynd" width="300">
-<img src="mynd3.jpg" alt="Mynd" width="300">
 <img src="mynd4.jpg" alt="Mynd" width="300">
 <img src="mynd5.jpg" alt="Mynd" width="300">
 
