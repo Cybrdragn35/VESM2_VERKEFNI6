@@ -2,11 +2,11 @@
 ### Leikmenn: 2
 
 <p>
-Leikurinn byrjar með að hafa 2 leikmenn, þegar leikurinn ræstist á leikmaður 1 að byrja.<br>
-Það er telt niður frá 5 og bendir leikmannin á að horfa vel á myndavélina (ekki hafa neitt sem getur látt augun vera falin, eins og gleraugu eða hár)<br>
-Svo telur það niður frá 10 og leikmaðurinn á að blikka eins hratt og hann getur í 10 sekúndur.<br>
-Eftir það, leikmaður 2 gerir sama sem leikmaður 1 var að gera.<br>
-Eftir báðir leikmenn klára að blikka, það teljir stiginn þeirra og sigurverainn er hann sem blikkar mest, og leikurinn byrjar aftur upp á nýtt.<br>
+Leikurinn byrjar með að hafa 2 leikmenn, þegar leikurinn ræstist á leikmaður 1 að byrja.<br><br>
+Það er telt niður frá 5 og bendir leikmannin á að horfa vel á myndavélina (ekki hafa neitt sem getur látt augun vera falin, eins og gleraugu eða hár)<br><br>
+Svo telur það niður frá 10 og leikmaðurinn á að blikka eins hratt og hann getur í 10 sekúndur.<br><br>
+Eftir það, leikmaður 2 gerir sama sem leikmaður 1 var að gera.<br><br>
+Eftir báðir leikmenn klára að blikka, það teljir stiginn þeirra og sigurverainn er hann sem blikkar mest, og leikurinn byrjar aftur upp á nýtt.<br><br>
 </p>
 
 # ALLIR ÍHLUTIR
