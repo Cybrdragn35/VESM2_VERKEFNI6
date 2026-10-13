@@ -25,3 +25,6 @@
 
 # MYNDIR OG VIDEO
 <img src="mynd1.jpg" alt="Mynd" width="300">
+
+## myndband
+https://drive.google.com/file/d/13181E7xa-tt3CdwBbOh02IFbvfLKToIK/view?usp=sharing
