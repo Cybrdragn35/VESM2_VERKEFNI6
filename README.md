@@ -21,7 +21,7 @@
 
 
 # MYNDRIT
-![Myndrit](blikk-keppni.drawio.png)
+<img src="blikk-keppni.drawio.png" alt="Myndrit" width="300">
 
 # MYNDIR OG VIDEO
-![Mynd](mynd1.jpg)
+<img src="mynd1.jpg" alt="Mynd" width="300">
