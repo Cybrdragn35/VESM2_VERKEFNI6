@@ -22,3 +22,6 @@
 
 # MYNDRIT
 ![Myndrit](blikk-keppni.drawio.png)
+
+# MYNDIR OG VIDEO
+![Mynd](mynd1.jpg)
